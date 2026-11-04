@@ -1,10 +1,6 @@
 # Cherry Buzz
 
-<p align="center">
-  <a href="https://github.com/CherryVST/CherryBuzz/releases/tag/v1.0.0"><img src="images/free-download.svg" alt="Free Download" width="380"></a>
-  <br>
-  <a href="https://github.com/CherryVST/CherryBuzz/releases/tag/v1.0.0"><b>Free Download</b></a>
-</p>
+**[Free Download](https://github.com/CherryVST/CherryBuzz/releases/tag/v1.0.0)**
 
 Free audio effect plugin.
 
