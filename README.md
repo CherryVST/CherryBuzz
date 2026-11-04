@@ -1,5 +1,11 @@
 # Cherry Buzz
 
+<p align="center">
+  <a href="https://github.com/CherryVST/CherryBuzz/releases/tag/v1.0.0"><img src="images/free-download.svg" alt="Free Download" width="380"></a>
+  <br>
+  <a href="https://github.com/CherryVST/CherryBuzz/releases/tag/v1.0.0"><b>Free Download</b></a>
+</p>
+
 Free audio effect plugin.
 
 ![Cherry Buzz](images/cherry-buzz.png)
@@ -45,7 +51,7 @@ raise BUZZ and some effect knobs. The factory presets **Build Up Soft** and
 ## Installation
 
 Download the archive for your system from the
-[Releases page](https://github.com/CherryVST/CherryBuzz/releases/latest).
+[Free Download page](https://github.com/CherryVST/CherryBuzz/releases/tag/v1.0.0) (under **Assets**).
 
 ### Windows (Intel / AMD)
 
