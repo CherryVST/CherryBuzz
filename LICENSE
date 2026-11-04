@@ -1,0 +1,39 @@
+Cherry Buzz - Freeware Licence
+Copyright (c) 2026 Oleh Cherkes. All rights reserved.
+
+Cherry Buzz (the "Software") is free of charge.
+
+YOU MAY
+  * download, install and use the Software on any number of computers;
+  * use the Software to create, perform, record, mix and release music and
+    other audio, including commercially. Everything you make with the
+    Software belongs to you; no credit or royalty is required.
+
+YOU MAY NOT
+  * sell, rent, lease or sublicense the Software, or include it in any
+    product, bundle or service that is sold;
+  * distribute modified copies of the Software, or distribute it in any form
+    other than the unmodified official archives published on the official
+    Cherry Buzz GitHub Releases page (sharing a link to that page is welcome);
+  * reverse-engineer, decompile or disassemble the Software, except to the
+    extent that applicable law expressly permits it;
+  * remove or alter the copyright notices, the author's name, this licence or
+    the third-party notices.
+
+NO WARRANTY
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIRD-PARTY COMPONENTS
+  The Software contains third-party components that are distributed under
+  their own licences; see THIRD-PARTY-NOTICES.
+
+TRADEMARKS
+  VST is a registered trademark of Steinberg Media Technologies GmbH.
+  Audio Units, macOS and Apple Silicon are trademarks of Apple Inc.
+  Windows is a trademark of Microsoft Corporation. All other trademarks are
+  the property of their respective owners.

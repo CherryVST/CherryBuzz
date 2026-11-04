@@ -44,6 +44,9 @@ raise BUZZ and some effect knobs. The factory presets **Build Up Soft** and
 
 ## Installation
 
+Download the archive for your system from the
+[Releases page](https://github.com/CherryVST/CherryBuzz/releases/latest).
+
 ### Windows (Intel / AMD)
 
 1. Download `Cherry-Buzz-v1.0.0-Windows-x64.zip`.
